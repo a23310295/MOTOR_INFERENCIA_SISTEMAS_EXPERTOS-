@@ -1,0 +1,10 @@
+{
+  "last_text": "Si es de día, entonces voy a trabajar\nSi llueve, entonces no voy a trabajar\nEs de día",
+  "cases": {
+    "Caso Prueba (Implicación + Negación)": "Si es de día, entonces voy a trabajar\nSi llueve, entonces no voy a trabajar\nEs de día",
+    "Contradicción Directa": "Hace sol y no hace sol",
+    "Disyunción (O)": "Juan estudia o María trabaja\nJuan no estudia",
+    "Bicondicional (Si y solo si)": "Hay luz si y solo si hay electricidad\nHay electricidad",
+    "Regla Alfa (Conjunción Y)": "Está nublado y hace frío\nSi hace frío, entonces llevo abrigo"
+  }
+}
